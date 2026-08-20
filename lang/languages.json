@@ -1,0 +1,7 @@
+{
+"default": "tr",
+"languages": [
+{ "code": "tr", "name": "Türkçe" },
+{ "code": "en", "name": "English" }
+]
+}
